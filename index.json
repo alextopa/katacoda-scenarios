@@ -34,10 +34,9 @@
     }
   },
   "environment": {
-    "hideintro": true,
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "python"
   }
 }
